@@ -1,6 +1,6 @@
 Django==1.7.0
 psycopg2==2.5.2
-wagtail==0.6.0
+wagtail==4.1.4
 pyjade==2.2.0
 pytz>=0
 
